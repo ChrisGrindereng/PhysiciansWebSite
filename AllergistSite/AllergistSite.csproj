@@ -199,6 +199,7 @@
     <Compile Include="Controllers\AppointmentController.cs" />
     <Compile Include="Controllers\ConditionsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LearningController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\PatientPortalController.cs" />
     <Compile Include="Global.asax.cs">
@@ -236,6 +237,7 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\Scripts.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -293,6 +295,7 @@
     <Content Include="Views\PatientPortal\MyDocuments.cshtml" />
     <Content Include="Views\PatientPortal\UpdateInformation.cshtml" />
     <Content Include="Views\PatientPortal\ViewAppointments.cshtml" />
+    <Content Include="Views\Learning\EpiPen.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
